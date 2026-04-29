@@ -1,0 +1,6 @@
+ad:
+  url: ${AD_SERVER_URL}
+  domain: ${AD_DOMAIN}
+  username: ${AD_BIND_USERNAME}
+  password: ${AD_BIND_PASSWORD}
+  read-only: ${AD_READ_ONLY:true}
